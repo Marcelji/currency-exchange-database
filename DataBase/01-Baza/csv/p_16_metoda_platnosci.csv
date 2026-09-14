@@ -1,0 +1,10 @@
+MP001;gotowka;Platnosc gotowka
+MP002;karta;Platnosc karta
+MP003;przelew;Platnosc przelewem
+MP004;blik;Platnosc BLIK
+MP005;apple_pay;Platnosc Apple Pay
+MP006;google_pay;Platnosc Google Pay
+MP007;przelew_natychmiastowy;Przelew natychmiastowy
+MP008;portfel_elektroniczny;Portfel elektroniczny
+MP009;voucher;Voucher
+MP010;mieszana;Platnosc mieszana

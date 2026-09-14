@@ -1,0 +1,12 @@
+LOAD DATA
+INFILE 'data/p_16_ulica.csv'
+INTO TABLE p_16_ulica
+APPEND
+FIELDS TERMINATED BY ';'
+OPTIONALLY ENCLOSED BY '"'
+TRAILING NULLCOLS
+(
+  d_miasta,
+  id_ulicy,
+  ulica
+)

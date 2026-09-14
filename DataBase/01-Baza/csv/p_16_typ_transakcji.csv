@@ -1,0 +1,10 @@
+TT0001;kupno;Kupno waluty przez kantor
+TT0002;sprzedaz;Sprzedaz waluty przez kantor
+TT0003;wymiana_standardowa;Standardowa wymiana walut
+TT0004;wymiana_gotowkowa;Wymiana gotowkowa
+TT0005;wymiana_bezgotowkowa;Wymiana bezgotowkowa
+TT0006;rezerwacja_kursu;Rezerwacja kursu
+TT0007;transakcja_duza;Transakcja wysokokwotowa
+TT0008;transakcja_promocyjna;Transakcja z warunkami promocyjnymi
+TT0009;transakcja_indywidualna;Transakcja z oferta indywidualna
+TT0010;transakcja_natychmiastowa;Transakcja realizowana od razu

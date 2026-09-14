@@ -1,0 +1,10 @@
+ZK00000001;nbp;Kurs oparty o tabele NBP
+ZK00000002;kurs_wewnetrzny;Wewnetrzna tabela kantoru
+ZK00000003;partner_finansowy;Zewnetrzny partner finansowy
+ZK00000004;tabela_poranna;Tabela poranna
+ZK00000005;tabela_popoludniowa;Tabela popoludniowa
+ZK00000006;tabela_promocyjna;Tabela promocyjna
+ZK00000007;kurs_weekendowy;Kurs weekendowy
+ZK00000008;kurs_lotniskowy;Kurs dla punktow lotniskowych
+ZK00000009;kurs_dworcowy;Kurs dla punktow dworcowych
+ZK00000010;kurs_specjalny;Kurs specjalny
